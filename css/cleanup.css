@@ -1,1 +1,61 @@
 /* write your override styles here */
+#wall{
+    margin: 41px auto;
+    width: 982px;
+    height: 625x;
+    -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    border: 15px solid white;
+    border-bottom: 60px solid white;
+}
+.tag-1{
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#wall .tag-1{
+    display:none;
+    -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    border: 15px solid white;
+    border-bottom: 60px solid white;
+}
+#wall #tag-2{
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622p;
+
+}
+
+div#wall #tag-3.slick {
+    display: flex;
+}
+#wall #tag-4 {
+    display: none;
+}
+div#wall .parent #tag-5.slick{
+    display: none;
+}
+div#wall div.parent div:last-child div#tag-6 {
+    -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    border: 15px solid white;
+    border-bottom: 60px solid white;
+}
+body div#wall div.parent div > #tag-7.slick{
+    -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    border: 15px solid white;
+    border-bottom: 60px solid white;   -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    -webkit-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
+    border: 15px solid white;
+    border-bottom: 60px solid white;
+
+}
